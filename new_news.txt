@@ -1,0 +1,228 @@
+_________________________
+//boards.4chan.org/a/
+Anime & Manga
+_________________________
+//boards.4chan.org/c/
+Anime/Cute
+_________________________
+//boards.4chan.org/w/
+Anime/Wallpapers
+_________________________
+//boards.4chan.org/m/
+Mecha
+_________________________
+//boards.4chan.org/cgl/
+Cosplay & EGL
+_________________________
+//boards.4chan.org/cm/
+Cute/Male
+_________________________
+//boards.4chan.org/f/
+Flash
+_________________________
+//boards.4chan.org/n/
+Transportation
+_________________________
+//boards.4chan.org/jp/
+Otaku Culture
+_________________________
+//boards.4chan.org/vt/
+Virtual YouTubers
+_________________________
+//boards.4chan.org/v/
+Video Games
+_________________________
+//boards.4chan.org/vg/
+Video Game Generals
+_________________________
+//boards.4chan.org/vm/
+Video Games/Multiplayer
+_________________________
+//boards.4chan.org/vmg/
+Video Games/Mobile
+_________________________
+//boards.4chan.org/vp/
+Pokémon
+_________________________
+//boards.4chan.org/vr/
+Retro Games
+_________________________
+//boards.4chan.org/vrpg/
+Video Games/RPG
+_________________________
+//boards.4chan.org/vst/
+Video Games/Strategy
+_________________________
+//boards.4chan.org/co/
+Comics & Cartoons
+_________________________
+//boards.4chan.org/g/
+Technology
+_________________________
+//boards.4chan.org/tv/
+Television & Film
+_________________________
+//boards.4chan.org/k/
+Weapons
+_________________________
+//boards.4chan.org/o/
+Auto
+_________________________
+//boards.4chan.org/an/
+Animals & Nature
+_________________________
+//boards.4chan.org/tg/
+Traditional Games
+_________________________
+//boards.4chan.org/sp/
+Sports
+_________________________
+//boards.4chan.org/xs/
+Extreme Sports
+_________________________
+//boards.4chan.org/pw/
+Professional Wrestling
+_________________________
+//boards.4chan.org/sci/
+Science & Math
+_________________________
+//boards.4chan.org/his/
+History & Humanities
+_________________________
+//boards.4chan.org/int/
+International
+_________________________
+//boards.4chan.org/out/
+Outdoors
+_________________________
+//boards.4chan.org/toy/
+Toys
+_________________________
+//boards.4chan.org/i/
+Oekaki
+_________________________
+//boards.4chan.org/po/
+Papercraft & Origami
+_________________________
+//boards.4chan.org/p/
+Photography
+_________________________
+//boards.4chan.org/ck/
+Food & Cooking
+_________________________
+//boards.4chan.org/ic/
+Artwork/Critique
+_________________________
+//boards.4chan.org/wg/
+Wallpapers/General
+_________________________
+//boards.4chan.org/lit/
+Literature
+_________________________
+//boards.4chan.org/mu/
+Music
+_________________________
+//boards.4chan.org/fa/
+Fashion
+_________________________
+//boards.4chan.org/3/
+3DCG
+_________________________
+//boards.4chan.org/gd/
+Graphic Design
+_________________________
+//boards.4chan.org/diy/
+Do-It-Yourself
+_________________________
+//boards.4chan.org/wsg/
+Worksafe GIF
+_________________________
+//boards.4chan.org/qst/
+Quests
+_________________________
+//boards.4chan.org/biz/
+Business & Finance
+_________________________
+//boards.4chan.org/trv/
+Travel
+_________________________
+//boards.4chan.org/fit/
+Fitness
+_________________________
+//boards.4chan.org/x/
+Paranormal
+_________________________
+//boards.4chan.org/adv/
+Advice
+_________________________
+//boards.4chan.org/lgbt/
+LGBT
+_________________________
+//boards.4chan.org/mlp/
+Pony
+_________________________
+//boards.4chan.org/news/
+Current News
+_________________________
+//boards.4chan.org/wsr/
+Worksafe Requests
+_________________________
+//boards.4chan.org/vip/
+Very Important Posts
+_________________________
+//boards.4chan.org/b/
+Random
+_________________________
+//boards.4chan.org/r9k/
+ROBOT9001
+_________________________
+//boards.4chan.org/pol/
+Politically Incorrect
+_________________________
+//boards.4chan.org/bant/
+International/Random
+_________________________
+//boards.4chan.org/soc/
+Cams & Meetups
+_________________________
+//boards.4chan.org/s4s/
+Shit 4chan Says
+_________________________
+//boards.4chan.org/s/
+Sexy Beautiful Women
+_________________________
+//boards.4chan.org/hc/
+Hardcore
+_________________________
+//boards.4chan.org/hm/
+Handsome Men
+_________________________
+//boards.4chan.org/h/
+Hentai
+_________________________
+//boards.4chan.org/e/
+Ecchi
+_________________________
+//boards.4chan.org/u/
+Yuri
+_________________________
+//boards.4chan.org/d/
+Hentai/Alternative
+_________________________
+//boards.4chan.org/y/
+Yaoi
+_________________________
+//boards.4chan.org/t/
+Torrents
+_________________________
+//boards.4chan.org/hr/
+High Resolution
+_________________________
+//boards.4chan.org/gif/
+Adult GIF
+_________________________
+//boards.4chan.org/aco/
+Adult Cartoons
+_________________________
+//boards.4chan.org/r/
+Adult Requests
